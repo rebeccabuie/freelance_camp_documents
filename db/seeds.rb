@@ -11,7 +11,7 @@
   FreelanceDocument.create!(
     title: "Document #{d}",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation",
-    file_url: "https://docs.google.com/document/d/1UUgAob6ZpivgkgCbMD84JMMRc1flrzCPKybtQoAfASo/edit?usp=sharing",
-    image_url: 'https://unsplash.com/?photo=7bwQXzbF6KE'
+    file_url: "https://docs.google.com/document/d/1B1Z_5z617zmcauExFmFnuph1sjZ8Yk7fY_n7-joiE54/edit?usp=sharing",
+    image_url: 'http://www.publicdomainpictures.net/pictures/160000/velka/ordinateur-de-bureau-pc-1456070535WEH.jpg               '
   )
 end
